@@ -1,4 +1,4 @@
-# wicox
+# 2021_WICOX_ORIGINAL_CODE
 - author : JI AE PARK
 
 # Contents
